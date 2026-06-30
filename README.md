@@ -1,0 +1,2 @@
+# IFRS-9-Credit-Risk-Modeling-and-Probability-of-Default-PD-Prediction
+Developed a credit risk prediction model using Python, Logistic Regression, and quantitative risk modeling techniques • Performed EDA, data preprocessing, feature engineering, WOE binning, and IV-based predictive variable selection • Evaluated Probability of Default (PD) model performance using PSI, KS Statistic, model validation, &amp; risk analytics
